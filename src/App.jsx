@@ -24,6 +24,7 @@ const App = () => {
                     <Billing/>
                     <CardDeal/>
                     <Testimonials/>
+                    <Client/>
 
 
                 </div>
